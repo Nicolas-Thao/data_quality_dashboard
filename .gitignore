@@ -1,0 +1,23 @@
+# .gitignore
+
+# Fichiers Python
+__pycache__/
+*.pyc
+
+# Environnement virtuel
+venv/
+.env/
+
+# Streamlit
+.streamlit/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de données
+*.csv
+*.xlsx
+
+# Logs
+*.log
